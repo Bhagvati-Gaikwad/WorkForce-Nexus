@@ -2,7 +2,7 @@
 ### AI-driven Workforce Analytics & Attrition Prediction Platform
 
 Workforce Nexus is an advanced workforce analytics platform that unifies productivity insights, attrition prediction, sentiment analysis, and operational KPIs across distributed teams. Designed for modern hybrid and remote workplaces, it helps HR leaders and business managers make proactive, data-driven decisions with real-time visibility.
-
+Prototype- https://www.figma.com/make/MfDUFRn3BYpR0LDBaISVHc/SaaS-Web-Dashboard-UI?node-id=0-1&t=gpM7PXpeHfhx3LHQ-1
 ---
 
 ## 🚀 Overview
